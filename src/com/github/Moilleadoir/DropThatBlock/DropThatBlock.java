@@ -17,11 +17,11 @@
 /*    */ 
 /* 21 */     this.pluginManager.registerEvents(new EnderWatch(), this);
 /*    */ 
-/* 24 */     this.log.info("[EnderEnd] - Version " + getDescription().getVersion() + " Started.");
+/* 24 */     this.log.info("[DropThatBlock] version " + getDescription().getVersion() + " started.");
 /*    */   }
 /*    */ 
 /*    */   public void onDisable()
 /*    */   {
-/* 29 */     this.log.info("[EnderEnd] - Version " + getDescription().getVersion() + " Stopped.");
+/* 29 */     this.log.info("[DropThatBlock] version " + getDescription().getVersion() + " stopped.");
 /*    */   }
 /*    */ }

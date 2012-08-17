@@ -2,3 +2,4 @@ name: DropThatBlock
 main: com.github.Moilleadoir.DropThatBlock.DropThatBlock
 version: 0.1
 load: startup
+nothing: nothing
