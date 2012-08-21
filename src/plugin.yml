@@ -1,5 +1,5 @@
-name: DropThatBlock
-main: com.github.Moilleadoir.DropThatBlock.DropThatBlock
-version: 0.1
+name: MyEye
+main: com.github.Moilleadoir.MyEye.MyEye
+version: 0.9
 load: startup
 nothing: nothing
